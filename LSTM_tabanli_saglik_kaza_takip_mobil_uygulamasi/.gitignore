@@ -1,0 +1,7 @@
+*.keras
+*.tflite
+*.csv
+veri_setleri/
+sanal_ortam/
+__pycache__/
+.vscode/
